@@ -4,15 +4,11 @@ How to Run
 
 1. Make sure Python 3 is installed.
 
-
 2. Download or clone the project folder.
-
 
 3. Open terminal in the project directory.
 
-
 4. Run the game using:
-
 
 
 python tic_tac_toe.py
