@@ -44,8 +44,6 @@ A player wins
 Or all spaces are filled (draw)
 
 
-
-
 -----------
 
 Example
@@ -57,7 +55,6 @@ Player O turn.
 Choose a position (1-9): 1
 
 Player X wins! 🎉
-
 
 ---
 
