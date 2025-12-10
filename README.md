@@ -14,7 +14,7 @@ How to Run
 python tic_tac_toe.py
 
 
----------
+--------
 
 How to Play
 
